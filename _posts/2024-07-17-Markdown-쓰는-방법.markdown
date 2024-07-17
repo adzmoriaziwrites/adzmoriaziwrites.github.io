@@ -4,6 +4,7 @@ title:  "Markdown 쓰는 방법"
 date:   2024-07-17 20:56 +09:00
 categories: hi
 ---
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 이렇게 쓰시면 그냥 평문으로 나오는데 별표를 하나를 놓으시면 *이탈릭체* 처리하게 됩니다. 그런데, 별표를 2개 놓으시면, **볼드체** 처리하게 됩니다. 
 
