@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Markdown 쓰는 방법"
-date:   2024-07-17 20:36 +09:00
+date:   2024-07-17 20:56 +09:00
 categories: hi
 ---
 
@@ -32,3 +32,4 @@ print("Hello World")
 | hi | bye |
 | --- | --- |
 | 안녕하세요 | 안녕히가세요 |
+ 
